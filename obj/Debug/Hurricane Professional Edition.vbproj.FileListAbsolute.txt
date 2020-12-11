@@ -1,0 +1,9 @@
+C:\Users\KUSH\source\repos\Hurricane Professional Edition\Hurricane Professional Edition\obj\Debug\Hurricane Professional Edition.vbprojAssemblyReference.cache
+C:\Users\KUSH\source\repos\Hurricane Professional Edition\Hurricane Professional Edition\obj\Debug\Hurricane_Professional_Edition.Hurricane.resources
+C:\Users\KUSH\source\repos\Hurricane Professional Edition\Hurricane Professional Edition\obj\Debug\Hurricane Professional Edition.vbproj.GenerateResource.cache
+C:\Users\KUSH\source\repos\Hurricane Professional Edition\Hurricane Professional Edition\obj\Debug\Hurricane Professional Edition.vbproj.CoreCompileInputs.cache
+C:\Users\KUSH\source\repos\Hurricane Professional Edition\Hurricane Professional Edition\bin\Debug\Hurricane Professional Edition.exe.config
+C:\Users\KUSH\source\repos\Hurricane Professional Edition\Hurricane Professional Edition\bin\Debug\Hurricane Professional Edition.exe
+C:\Users\KUSH\source\repos\Hurricane Professional Edition\Hurricane Professional Edition\bin\Debug\Hurricane Professional Edition.pdb
+C:\Users\KUSH\source\repos\Hurricane Professional Edition\Hurricane Professional Edition\obj\Debug\Hurricane Professional Edition.exe
+C:\Users\KUSH\source\repos\Hurricane Professional Edition\Hurricane Professional Edition\obj\Debug\Hurricane Professional Edition.pdb
